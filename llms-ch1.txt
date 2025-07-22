@@ -1,0 +1,45 @@
+
+NLP is a field of linguistics and ML that focuses on understanding everything related to the human languages. NLP is used to let the computer understand the content behind words.
+
+Common NLP tasks:
+ - classifying whole sentences (checking if gramatically or logically correct)
+ - Classifying each word in a sentence
+ - Generating text content (completing a section of text with auto generated text)
+ - Extracting answer from text
+ - Generating a new sentence from input text
+
+
+NLP is also used in speech recognition (e.g. generating transcript of audio) & computer vision (e.g. decription of image)
+
+-------------
+LLMs for NLP:
+-------------
+NLP has been revolutionalised by LLMS with architectures such as GPT (Generative Pre-trained Transformer) and Llama
+
+LLM - A large language model is a machine learning model used that is trained on a lot of test to understand and generate more HUMAN-LIKE text -> typically can perform language tasks without specific training.
+
+-------------
+LLMs & Characteristics: 
+-------------
+Scale -> Contains million, billions+ parameters
+General capabilities -> Perform multiple tasks without task-specific training
+In-context learaning -> Can learn from examples provided in the promp
+Emergent Capabilities -> As they grow in size, start to show capabilities that were not programmed.
+
+
+-------------
+LLMs & Limitations:
+------------
+
+Hallucinations -> they generate the wrong information with alot of confidence
+Operate purely on stastical patterns 
+Bias -> May have some sort of bias in training data or inputs
+Context windows -> Limited context windows (how much info an LLM can remember)
+Require alot of computational resources
+
+-----------
+What are Transformers:
+-----------
+
+
+
